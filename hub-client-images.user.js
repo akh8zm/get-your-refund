@@ -49,7 +49,7 @@ javascript: (function () {
   function buildDocumentTypeSelector(docType) {
     var options =
       ['ID', 'Selfie', 'SSN or ITIN',
-        ['Employment', "Employment tax docs (W2's, 1099)"],
+        ['Employment', "Employment tax docs (W2's, 1099, etc)"],
         'Final Tax Document',
         '1095-A',
         '1098', '1098-E', '1098-T',
