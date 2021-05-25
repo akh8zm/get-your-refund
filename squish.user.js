@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  Rearrange the clients table to show more important info first.
 // @match        https://*.getyourrefund.org/en/hub
+// @match        https://*.getyourrefund.org/en/hub*
 // @match        https://*.getyourrefund.org/en/hub/clients
 // @match        https://*.getyourrefund.org/en/hub/clients?*
 // @match        https://*.getyourrefund.org/en/hub/clients/sla-breaches?*
